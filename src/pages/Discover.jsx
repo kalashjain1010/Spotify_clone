@@ -41,7 +41,6 @@ const Discover = () => {
             activeSong={activeSong}
             data={data}
             i={i}
-            //sdf
           />
         ))}
       </div>
